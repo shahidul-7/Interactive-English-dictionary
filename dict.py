@@ -35,4 +35,4 @@ while True:
         break  # Exit the loop
     else:
         print(translate(user_input), "\n")  # Call the translate function and print the result
-    time.sleep(1)  # Pause for 1 second before the next iteration
+    time.sleep(2)  # Pause for 1 second before the next iteration
